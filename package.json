@@ -12,5 +12,18 @@
     "http-errors": "^2.0.0",
     "morgan": "^1.10.0",
     "pug": "^3.0.2"
-  }
+  },
+  "description": "This is my Express project",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s555238/f2wa38kanukuntla.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s555238/f2wa38kanukuntla/issues"
+  },
+  "homepage": "https://github.com/s555238/f2wa38kanukuntla#readme"
 }
